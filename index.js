@@ -6,8 +6,6 @@ const rl = readline.createInterface({
   output: process.stdout
 });
 
-
-
 const API_KEY = 'YOUR_OPENWEATHERMAP_API_KEY';
 const BASE_URL = 'https://api.openweathermap.org/data/2.5/weather';
 
